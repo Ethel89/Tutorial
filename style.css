@@ -3,7 +3,9 @@ body {
     background-color: #f4f4f4;
     text-align: center;
     padding: 50px;
-    background-color: #f0f8ff; /* Light blue */
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient from pink to orange */
+}
+
     
 }
 
