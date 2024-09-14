@@ -3,10 +3,21 @@ body {
     background-color: #f4f4f4;
     text-align: center;
     padding: 50px;
+    background-color: #f0f8ff; /* Light blue */
+    
+}
+
 }
 
 h1 {
     color: #333;
+    color: #333333; /* Dark gray */
+}
+
+p {
+    color: #666666; /* Lighter gray */
+}
+
 }
 
 p {
