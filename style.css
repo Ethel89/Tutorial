@@ -12,7 +12,26 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     padding: 50px;
     background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient from pink to orange */
+}:root {
+    --primary-color: #2c3e50;
+    --accent-color: #e67e22;
+    --background-color: #ecf0f1;
+    --text-color: #333;
 }
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+a {
+    color: var(--primary-color);
+}
+
+a:hover {
+    color: var(--accent-color);
+}
+
 
     
 }
