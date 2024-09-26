@@ -42,7 +42,7 @@ nav ul li a {
 
 /* Hero Section */
 .hero {
-    background-image: url('path-to-your-hero-image.jpg'); /* https://github.com/Ethel89/Tutorial/blob/main/Dark%20Elegant%20Aesthetic%20Minimalist%20Virtual%20Assistant%20Facebook%20Cover.png?raw=true */
+    background-image: url('https://github.com/Ethel89/Tutorial/blob/main/Dark%20Elegant%20Aesthetic%20Minimalist%20Virtual%20Assistant%20Facebook%20Cover.png?raw=true');
     background-size: cover;/* Cover the section area */
     background-position: center;/* Center the image */
     height: 50vh;/* Set the height to half of the viewport height */
